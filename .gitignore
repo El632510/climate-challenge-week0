@@ -1,0 +1,5 @@
+# Ignore the data folder and all CSV files
+data/
+*.csv
+venv/
+.ipynb_checkpoints/
